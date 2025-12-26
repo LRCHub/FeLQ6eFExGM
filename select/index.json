@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "戦場の華",
+  "base_artist": "CHiCO with HoneyWorks",
+  "createdAt": "2025-12-26T04:03:32.183066Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "戦場の華",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/01_戦場の華_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "戦場の華",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": false,
+      "path": "select/pl_01_戦場の華_CHiCO_with_HoneyWorks.txt"
+    }
+  ]
+}
